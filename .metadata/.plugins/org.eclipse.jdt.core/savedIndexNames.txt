@@ -1,2 +1,0 @@
-INDEX VERSION 1.134+C:\Users\ebers\OneDrive\Documentos\Proyects\EstructuraDeDatos2025\.metadata\.plugins\org.eclipse.jdt.core
-3413725848.index
